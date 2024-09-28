@@ -5,7 +5,7 @@ y = int(input("Digite o número de passos para o leste (Y): "))
 # Calcule a distância total
 distancia_total = x + y
 
-# Exibeir o resultado
+# Exibir o resultado
 print(f"A distância total que o pirata precisa percorrer é: {distancia_total} passos")
 
 
